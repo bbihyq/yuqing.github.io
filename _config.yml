@@ -1,4 +1,4 @@
-title: 宇清Talks - 关于创业投资的思考
+title: 记录创业、投资及成长的思考
 description: 何宇清老师的个人频道，在这里分享创业投资、个人成长、读书和认知科学
 author: 何宇清
 github: www.airwe.com
@@ -26,11 +26,11 @@ urls:
     - text: 关于
       url: /about/
     - text: 资源
-      url: /projects/
+      url: http://www.bukop.com/
     - text: 微博
-      url: https://weibo.com/heyuqing
-    - text: RSS订阅
-      url: /feed.xml
+      url: https://weibo.com/u/6564566407
+    - text: 推特
+      url: https://twitter.com/allindefi
 
 url: "https://www.airwe.com"
 baseurl: ""
